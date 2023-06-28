@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I am Jonathan 👋
+I am a new starter in the tech industry who is doing a bootcamp in HyperioDev in Data Sciense. I am looking for new challenges and become part of team. My experience has been trhought projects done in HyperionDev using Python language. I enjoyed all what I learned and I found something that rea really passionates me which is coding. Thorugh my previous jobs not connected in tech industry I developed the following skills:
+* Team worker or be independant if requires
+* Problem-solving skills
+* Attention to details
+* Management time
 
-<!--
-**jonagp96/jonagp96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Where to find me or contact me:
+* [ <a href="[https://www.linkedin.com/in/monicampowell/](https://www.linkedin.com/in/jonathan-arturo-guerra-pilatasig-49760b262/)https://www.linkedin.com/in/jonathan-arturo-guerra-pilatasig-49760b262/">LinkedIn</a> 
+](https://www.linkedin.com/in/jonathan-arturo-guerra-pilatasig-49760b262/)https://www.linkedin.com/in/jonathan-arturo-guerra-pilatasig-49760b262/
+* Email: jonathan_gp@hotmail.es
+<img align="right" width="130" height="130" src="https://github.com/jonagp96/jonagp96/assets/129774396/59231b82-2312-4a90-9a33-7478153fa54draw=true"></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
