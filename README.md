@@ -1,5 +1,5 @@
 # Hi there, I am Jonathan 👋
-I am a new starter in the tech industry who is doing a bootcamp in HyperioDev in Data Sciense. I am looking for new challenges and become part of team. My experience has been trhought projects done in HyperionDev using Python language. I enjoyed all what I learned and I found something that rea really passionates me which is coding. Thorugh my previous jobs not connected in tech industry I developed the following skills:
+I am a new starter in the tech industry who has completed a bootcamp in HyperioDev in Data Sciense. I am looking for new challenges and become part of a team. My experience has been trhought projects done in HyperionDev using Python language. I enjoyed all what I learned and I found something that really passionates me which is coding.That leads me into continuing learning more and I have expand my knowledge and have learned HTML, CSS, GIT, and GitHub. I am keep progressing and learning more through ITonlinelearning. Thorugh my previous jobs not connected in tech industry I developed the following skills:
 * Team worker or be independant if requires
 * Problem-solving skills
 * Attention to details
